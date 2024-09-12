@@ -10,6 +10,8 @@ seating_chart = [
 for i, row in enumerate(seating_chart):
     print(f"In row {i+1} is {row}")
 
+print("\n\n")
+
 
 for i, row in enumerate(seating_chart):
     for j, student_name in enumerate(row):
